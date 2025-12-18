@@ -31,7 +31,7 @@ Ele serve como **base técnica obrigatória** para:
 ### 📘 Fundamentos de Redes de Computadores
 
 ➡️ **Documento principal:**  
-[**Fundamentos de Redes de Computadores**](./Fundamentos%20de%20Redes%20de%20Computadores.md)
+[**Fundamentos de Redes de Computadores**](./Redes/Fundamentos%20de%20Redes%20de%20Computadores.md)
 
 Este material cobre **toda a base essencial** de redes, incluindo:
 
